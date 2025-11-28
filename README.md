@@ -1,6 +1,7 @@
 # 🎵 Music Recommendation System
 
 This project is a **content-based music recommender system** built using **machine learning** and **audio feature clustering**. It helps users discover songs with similar musical characteristics (e.g., tempo, energy, danceability) using data from **Spotify**.
+<img width="801" height="576" alt="image" src="https://github.com/user-attachments/assets/01d549ca-7af2-4cf2-a22d-f361ad3c0283" />
 
 ---
 
